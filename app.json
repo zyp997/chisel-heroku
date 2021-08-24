@@ -5,7 +5,7 @@
   "env": {
     "CHISEL_AUTH": {
       "description": "身份验证",
-      "value:" "user:pass"
+      "value": "user:pass"
     }
   }
 }
